@@ -23,10 +23,10 @@ repository               : "renzodfj-ai/renzodfj.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "fotodp.png"
+  avatar           : "prof.png"
   name             : "Renzo Daniel Flores Justiniani"
   pronouns         : # example: "she/her"  
-  bio              : "Estudiante de economía con concentración en finanzas"
+  bio              : "Estudiante de economía, concentración en finanzas, 9no ciclo."
   location         : "Lima, Perú"
   employer         : "Universidad del Pacífico"
   uri              : # URL
