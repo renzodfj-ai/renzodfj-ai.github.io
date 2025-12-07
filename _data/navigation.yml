@@ -26,7 +26,7 @@ main:
   - title: "CV"
     url: /files/Resume.pdf
     
-  - title: "Predicción Basada en Machine Learning del S&P 500"
+  - title: "Predicción del S&P 500"
     url: /predictor/
     
   - title: "Calculadora Black-Scholes"
