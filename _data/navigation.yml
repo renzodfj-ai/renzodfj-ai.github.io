@@ -29,5 +29,5 @@ main:
   - title: "Predicción Basada en Machine Learning del S&P 500"
     url: /predictor/
     
- # - title: "Guide"
- #   url: /markdown/
+  - title: "Calculadora Black-Scholes"
+    url: /blackscholes/
