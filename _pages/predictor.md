@@ -1,11 +1,11 @@
 ---
-title: "Predictor S&P500"
+title: ""
 permalink: /predictor/
 layout: single
 author_profile: true
 ---
 
-# Predictor del S&P500
+#Predictor del S&P500
 
 <iframe 
     src="https://claude.site/public/artifacts/c1821796-528c-4663-92ab-3a8dfc16c2ab/embed"
